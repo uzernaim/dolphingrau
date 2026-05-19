@@ -1,0 +1,16 @@
+Edit Log for Siemens_MS43_MS43X001_E46_M54B25_EU4_LHD.bin created by TunerPro.
+**************************************************************************
+05/19/2026 18:22:54  Scalar:    c_tco_ex_max_ect changed from 105.0 °C (0xCC) to 90.0 °C (0xB8).
+05/19/2026 18:23:07  Scalar:    c_tco_sp_tco_ex_max changed from 84.8 °C (0xB1) to 84.8 °C (0xB1).
+05/19/2026 18:23:43  Scalar:    c_tco_sp_tia_max changed from 82.5 °C (0xAE) to 84.8 °C (0xB1).
+05/19/2026 18:23:51  Scalar:    c_tco_sp_toil_min changed from 105.0 °C (0xCC) to 84.8 °C (0xB1).
+05/19/2026 18:44:34  Scalar:    c_abc_inc_bls changed from 2 - (0x02) to 0 - (0x00).
+05/19/2026 18:44:41  Scalar:    c_abc_inc_cps changed from 2 - (0x02) to 0 - (0x00).
+05/19/2026 18:44:46  Scalar:    c_abc_inc_cru_mon changed from 2 - (0x02) to 0 - (0x00).
+05/19/2026 18:44:51  Scalar:    c_abc_inc_ecf changed from 1 - (0x01) to 0 - (0x00).
+05/19/2026 18:45:19  Scalar:    c_abc_inc_sap changed from 2 - (0x02) to 0 - (0x00).
+05/19/2026 18:45:21  Scalar:    c_abc_inc_sav changed from 2 - (0x02) to 0 - (0x00).
+05/19/2026 18:45:32  Scalar:    c_abc_inc_tco changed from 2 - (0x02) to 0 - (0x00).
+05/19/2026 18:45:35  Scalar:    c_abc_inc_tco_ex changed from 2 - (0x02) to 0 - (0x00).
+05/19/2026 18:45:45  Scalar:    c_abc_inc_tout_asr_1 changed from 1 - (0x01) to 0 - (0x00).
+05/19/2026 18:46:13  Scalar:    c_abc_max_bls changed from 20 - (0x14) to 1 - (0x01).
